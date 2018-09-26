@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="hello_develop_branch">Hello Develop Branch</string>
+    <string name="develop_branch_edited">Develop Branch Edited</string>
 </resources>
